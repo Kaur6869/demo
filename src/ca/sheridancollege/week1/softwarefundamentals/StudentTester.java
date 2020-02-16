@@ -12,6 +12,7 @@ public class StudentTester {
     public static void main(String[] args)
     {
         // hello hey bye ye
+        // today is not a goodday as i have midtrems next week
         //char[] pillbox=new char[7];
         //array of StudentDemo objects
         StudentDemo[] StudentLst=new StudentDemo[3];
